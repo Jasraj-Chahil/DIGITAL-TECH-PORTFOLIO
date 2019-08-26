@@ -1,5 +1,5 @@
 html {
-    background-color: #EEE0CB;
+    background-color: #2B2D42;
     color: black;
 
     font-family: 'Roboto Slab', serif;
@@ -12,14 +12,14 @@ html {
     text-align: center;
 }
 h1 {
-    background-color: #f3f3f3;
+    background-color: #E7DECD;
 }
 
 ul {
     list-style-type: none;
     margin: 0 auto;
     padding: 0;
-background-color: #f3f3f3;
+background-color: #E7DECD;
 
 
 }
@@ -29,7 +29,11 @@ li {
     float: inherit;
 }
 
-li:last-child {}
+li a:hover {
+    
+    
+    background-color: #ffffff;
+}
 
 a {
     display: block;
