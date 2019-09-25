@@ -1,6 +1,7 @@
 html {
     background-color: #2B2D42;
     color: black;
+    
 
     font-family: 'Roboto Slab', serif;
     font-size: 1.8em;
@@ -42,3 +43,95 @@ a {
     font-size: 0.5em;
     color:#3e3e88;
 }
+
+.center {
+    
+    top:100px; 
+    background-color: 
+    
+}
+
+.text {
+    
+    color:#2B2D42
+}
+
+h2  {
+    
+    color: azure
+    
+}
+
+img.imagej {
+    
+    vertical-align: middle
+    
+}
+
+
+div.julian {
+    
+    font-size:15px;
+    clear:right;
+    padding: 10px 70px;
+    
+}
+
+
+@font-face {
+    
+    Font-family: Linky font;
+    src: url(great-vibes)
+}
+    
+.rainbow {
+    
+    
+    font-family: "Times New Roman", Times, serif;
+}
+
+.julian {
+    
+    font-family: 'Times New Roman', serif;
+}
+
+.selfie{
+    
+    font-size:15px
+}
+
+img.imagec {
+    
+    vertical-align: middle
+    
+}
+
+div.collage {
+    
+    font-size:15px;
+    clear:right;
+    padding: 10px 70px;
+    
+}
+
+div.text {
+    
+    font-size:15px;
+    clear:right;
+    padding: 10px 40px;
+    
+}
+
+.dslr {
+    font-size:15px;
+    padding: 10px 40px;
+
+}
+
+.animate {
+    
+     font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+letter-spacing: 2px;
+}
+
